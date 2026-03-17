@@ -1,4 +1,4 @@
-# movie-recommendation-system
+# Movie-Recommendation-system
 
 ## Problem Statement
 Build a Recommender System to show personalized movie recommendations based on ratings given by a user and other users similar to them in order to improve user experience.
@@ -11,6 +11,7 @@ Build a Recommender System to show personalized movie recommendations based on r
 - Deliver personalized movie recommendations
 - Enhance user experience through data-driven insights
 
+## Tech Stack
 * Python
 * Pandas, NumPy
 * Scikit-learn
